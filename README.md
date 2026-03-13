@@ -1,16 +1,27 @@
-## Hi there 👋
+# Cedrick Green
 
-<!--
-**ced213gcg-design/ced213gcg-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student focused on building practical security skills and transitioning into an entry-level Security Analyst or SOC role. I am currently studying cybersecurity while developing hands-on projects in networking, system defense, and security automation.
 
-Here are some ideas to get you started:
+## Core Focus
+• Network Security  
+• Incident Response  
+• Threat Detection  
+• Security Monitoring  
+• Python for Cybersecurity  
+• Log Analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+I am actively building a cybersecurity portfolio that documents real labs, defensive techniques, and security analysis projects.
+
+Projects being developed include:
+
+• Network defense labs  
+• Python security automation scripts  
+• Incident response walkthroughs  
+• Security monitoring exercises  
+
+## Mission
+My goal is to combine disciplined problem solving, technical study, and hands-on practice to become a highly capable cybersecurity professional who can protect systems, data, and organizations from evolving threats.
+
+## Contact
+Email: ced213g.cg@gmail.com
