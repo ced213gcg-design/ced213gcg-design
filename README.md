@@ -1,27 +1,75 @@
-# Cedrick Green
+## Who I Am
 
-Cybersecurity student focused on building practical security skills and transitioning into an entry-level Security Analyst or SOC role. I am currently studying cybersecurity while developing hands-on projects in networking, system defense, and security automation.
+I am a cybersecurity practitioner focused on defensive security, threat detection, and real-world system protection.
 
-## Core Focus
-• Network Security  
-• Incident Response  
-• Threat Detection  
-• Security Monitoring  
-• Python for Cybersecurity  
-• Log Analysis  
+My background in structured operations and quality control translates directly into:
+- disciplined analysis
+- process-driven security
+- precision under pressure
 
-## Current Work
-I am actively building a cybersecurity portfolio that documents real labs, defensive techniques, and security analysis projects.
+I do not just study cybersecurity — I build, test, and document it in action.
 
-Projects being developed include:
+---
 
-• Network defense labs  
-• Python security automation scripts  
-• Incident response walkthroughs  
-• Security monitoring exercises  
+## Core Capabilities
+
+- Network Traffic Analysis
+- Incident Response Fundamentals
+- Threat Detection & Monitoring
+- Log Analysis & Event Correlation
+- Python Security Automation
+- Security Tool Usage (Nmap, Wireshark, etc.)
+
+---
+
+## Active Cyber Lab Environment
+
+I am actively developing a hands-on security lab that includes:
+
+- Network defense simulations
+- SOC-style monitoring workflows
+- Python-based security tools
+- Incident response walkthroughs
+- Vulnerability scanning and analysis
+
+---
+
+## Featured Projects
+
+### Network Defense Lab
+Hands-on traffic analysis, detection, and intrusion investigation.
+
+### SOC Analyst Lab
+Simulated security operations center with log monitoring and response workflows.
+
+### Python Security Tools
+Custom scripts for:
+- network scanning
+- log parsing
+- automation tasks
+
+### Cyber Operations Portfolio
+Centralized documentation of labs, findings, and security workflows.
+
+---
 
 ## Mission
-My goal is to combine disciplined problem solving, technical study, and hands-on practice to become a highly capable cybersecurity professional who can protect systems, data, and organizations from evolving threats.
+
+To operate at a high level in cybersecurity by combining:
+- disciplined execution
+- real-world simulation
+- continuous skill refinement
+
+My objective is to transition into a Security Analyst or SOC role and contribute immediately with practical capability.
+
+---
 
 ## Contact
+
 Email: ced213g.cg@gmail.com
+
+
+
+
+On Wed, Mar 18, 2026 at 12:56 AM Cedrick Green <ced213g.cg@gmail.com> wrote:
+nano README.md
