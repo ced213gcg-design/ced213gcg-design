@@ -80,3 +80,10 @@ Email: ced213g.cg@gmail.com
 
 On Wed, Mar 18, 2026 at 12:56 AM Cedrick Green <ced213g.cg@gmail.com> wrote:
 nano README.md
+
+
+## GitHub Stats
+
+![Cedrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ced213gcg-design&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ced213gcg-design&layout=compact&theme=dark)
