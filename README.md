@@ -1,6 +1,12 @@
 ## Who I Am
 #Cedrick Green
 
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge)
+
 I am a cybersecurity practitioner focused on defensive security, threat detection, and real-world system protection.
 
 My background in structured operations and quality control translates directly into:
