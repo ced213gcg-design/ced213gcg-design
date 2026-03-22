@@ -1,156 +1,126 @@
-# Cedrick Green
+<h1 align="center">Cedrick Green</h1>
+<h3 align="center">Cybersecurity Analyst | SOC Operations | Threat Detection</h3>
 
-## Lock & Key Cyber
+<p align="center">
+U.S. Army Veteran • Defensive Security • Real-World Lab Execution
+</p>
 
-Cybersecurity Analyst | SOC Operations | Threat Detection | Network Defense
-
----
-
-I do not just study cybersecurity — I operate within it.
-
-I build, test, and document real-world cybersecurity lab environments focused on detection, analysis, and system protection.
-
----
-
-## Core Pillars
-
-### Discipline
-Structured execution, consistency, and operational accountability.
-
-### Analysis
-Understanding threats, not just identifying them.
-
-### Execution
-Hands-on lab environments and real tool usage.
-
-### Structure
-System-based thinking, SOP development, repeatable processes.
-
-### Growth
-Continuous improvement and skill development.
-
-### Protection
-Defensive security mindset focused on reducing risk and exposure.
+<p align="center">
+<a href="https://github.com/ced213gcg-design">
+<img src="https://img.shields.io/badge/Portfolio-Active-black?style=for-the-badge&logo=github">
+</a>
+<a href="https://www.linkedin.com/in/CedrickGreenATX213CYBER">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
 
 ---
 
-## Technical Focus
+## ⚔️ Mission
 
-- Network Scanning (Nmap)
-- TCP/IP Traffic Analysis
+Empower individuals with **technical skills and financial knowledge** to create real independence.
+
+With the standard of excellence fueling hearts and minds to stay **Lock & Key’d in for success.**
+
+---
+
+## 🧠 Core Capabilities
+
+- Threat Detection & Analysis
+- Network Traffic Analysis (TCP/IP)
+- Vulnerability Scanning & Enumeration
 - Linux Hardening
-- SIEM Concepts
-- Threat Detection
-- Incident Response Fundamentals
-
----
-
-## Active Projects
-
-- SOC Analyst Lab (In Progress)
-- Linux Security Lab (Upcoming)
-- Network Analysis Lab (Upcoming)
-
----
-
-## Mission
-
-Empower individuals with technical skills and financial knowledge to create real independence, built on discipline, precision, and execution.
-
----
-
-## Identity
-
-Lock & Key Cyber  
-Security Through Discipline and Precision
-=======
-## Who I Am
-#Cedrick Green
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge)
-
-I am a cybersecurity practitioner focused on defensive security, threat detection, and real-world system protection.
-
-My background in structured operations and quality control translates directly into:
-- disciplined analysis
-- process-driven security
-- precision under pressure
-
-I do not just study cybersecurity — I build, test, and document it in action.
-
----
-
-## Core Capabilities
-
-- Network Traffic Analysis
-- Incident Response Fundamentals
-- Threat Detection & Monitoring
 - Log Analysis & Event Correlation
+- Incident Response Fundamentals
+- Security Monitoring (SOC Concepts)
 - Python Security Automation
-- Security Tool Usage (Nmap, Wireshark, etc.)
 
 ---
 
-## Active Cyber Lab Environment
+## 🔬 Active Cyber Lab Environment
 
-I am actively developing a hands-on security lab that includes:
+Hands-on cybersecurity lab simulating real-world attack and defense scenarios:
 
-- Network defense simulations
+- Network scanning and enumeration
+- Open port identification and exposure analysis
 - SOC-style monitoring workflows
-- Python-based security tools
 - Incident response walkthroughs
-- Vulnerability scanning and analysis
+- Log analysis simulations
+- Python-based automation tools
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Network Defense Lab
-Hands-on traffic analysis, detection, and intrusion investigation.
+### 🛡️ SOC Analyst Lab
+Simulated SOC environment with detection, triage, and response workflows.
 
-### SOC Analyst Lab
-Simulated security operations center with log monitoring and response workflows.
+### 🌐 Network Defense Lab
+Traffic analysis, intrusion detection, and investigation scenarios.
 
-### Python Security Tools
-Custom scripts for:
-- network scanning
-- log parsing
-- automation tasks
+### 🐍 Python Security Tools
+Custom automation scripts for:
+- Network scanning
+- Log parsing
+- Task automation
 
-### Cyber Operations Portfolio
-Centralized documentation of labs, findings, and security workflows.
->>>>>>> 034744c6dc826b827b79b46b51738adac381ee86
-
----
-
-## Mission
-
-<<<<<<< HEAD
-Empower individuals with technical skills and financial knowledge to create real independence, built on discipline, precision, and execution.
+### 📊 Cyber Operations Portfolio
+Centralized documentation of labs, findings, and workflows.
 
 ---
 
-## Identity
+## 🇺🇸 Military Background
 
-Lock & Key Cyber  
-Security Through Discipline and Precision
-=======
-To operate at a high level in cybersecurity by combining:
-- disciplined execution
-- real-world simulation
-- continuous skill refinement
+U.S. Army Veteran
 
-My objective is to transition into a Security Analyst or SOC role and contribute immediately with practical capability.
+- MOS: 13P – MLRS Fire Direction Specialist
+- Rank: E-4 (Corporal)
+
+Operations:
+- Operation Iraqi Freedom I
+- Operation Iraqi Freedom II
+- Operation Iraqi Liberty
+
+Core Strengths:
+- Precision execution under pressure
+- Real-time decision making
+- Structured operations
+- Leadership in controlled environments
 
 ---
 
-## Contact
+## 📜 Certifications & Training
+
+- Cybersecurity Foundations
+- The Cybersecurity Threat Landscape
+- Practical Cybersecurity for IT Professionals
+- IT Security Foundations: Network Security
+- IT Security Foundations: Operating System Security
+
+Additional:
+- 25+ Indeed Certifications
+- SENS Certifications
+
+---
+
+## 🤝 Community & Leadership
+
+**Lock & Key Initiative**
+
+Focused on:
+- Cybersecurity education
+- Financial literacy
+- Workforce development
+- Community empowerment
+
+---
+
+## 📫 Contact
 
 Email: ced213g.cg@gmail.com
+Phone: 737-320-7866
+LinkedIn: https://www.linkedin.com/in/CedrickGreenATX213CYBER
+GitHub: https://github.com/ced213gcg-design
 
 
 
