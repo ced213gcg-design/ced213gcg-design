@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/lock-key-cyber-logo.png" width="250"/>
+</p>
 
 <h1 align="center">Cedrick Green</h1>
 <h3 align="center">Lock & Key Cyber</h3>
