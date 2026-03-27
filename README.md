@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/lock-key-cyber-logo.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/lock-key-cyber-logo.png" width="250" alt="Lock and Key Cyber Logo">
 </p>
 
 <h1 align="center">Cedrick Green</h1>
@@ -17,10 +17,6 @@ U.S. Army Veteran • Defensive Security • Real-World Lab Execution
 <a href="https://www.linkedin.com/in/CedrickGreenATX213CYBER">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
-</p>
-
-<p align="center">
-<img src="YOUR_LOGO_LINK_HERE" width="220" alt="Lock and Key Cyber Logo">
 </p>
 
 ---
@@ -66,16 +62,16 @@ With the standard of excellence fueling hearts and minds to stay **Lock & Key’
 
 ---
 
-## 🧠 Technical Focus
+## 🧠 Command Focus
 
-- Threat Detection & Analysis
-- Network Traffic Analysis (TCP/IP)
-- Vulnerability Scanning & Enumeration
+- Cybersecurity
+- Infrastructure
+- Systems Operations
+- Threat Detection
+- Network Analysis
 - Linux Hardening
-- Log Analysis & Event Correlation
-- Security Monitoring (SOC Concepts)
+- Security Monitoring
 - Incident Response Fundamentals
-- Python Security Automation
 
 ---
 
@@ -97,8 +93,8 @@ Hands-on cybersecurity lab simulating real-world attack and defense scenarios:
 ### 🛡️ SOC Analyst Lab
 Simulated SOC environment with detection, triage, and response workflows.
 
-### 🌐 Network Defense Lab
-Traffic analysis, intrusion detection, and investigation scenarios.
+### 🌐 Nmap Scan Lab
+Live host scanning, exposure analysis, and service enumeration.
 
 ### 🐍 Python Security Tools
 Custom automation scripts for:
@@ -163,17 +159,3 @@ Email: ced213g.cg@gmail.com
 Phone: 737-320-7866  
 LinkedIn: https://www.linkedin.com/in/CedrickGreenATX213CYBER  
 GitHub: https://github.com/ced213gcg-design
-
-
-
-
-On Wed, Mar 18, 2026 at 12:56 AM Cedrick Green <ced213g.cg@gmail.com> wrote:
-nano README.md
-
-
-## GitHub Stats
-
-![Cedrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ced213gcg-design&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ced213gcg-design&layout=compact&theme=dark)
->>>>>>> 034744c6dc826b827b79b46b51738adac381ee86
