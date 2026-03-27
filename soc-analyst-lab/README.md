@@ -1,84 +1,73 @@
-# 🔍 SOC Analyst Lab
+# 🌐 Network Defense Lab
 
 ## 📌 Objective
-This lab demonstrates real-world security monitoring and threat detection through traffic analysis and alert investigation.
+This lab demonstrates network reconnaissance, service enumeration, and defensive awareness using active scanning techniques.
 
 ---
 
 ## 🚨 Scenario
-A potential malicious alert was generated from network activity. The objective was to determine whether the activity was benign or a real threat.
+A target system was analyzed to identify open ports, running services, and potential vulnerabilities that could be exploited by an attacker.
 
 ---
 
-## 🧠 Investigation Process
+## 🧠 Analysis Process
 
-### 1. Alert Identification
-- Reviewed alert details
-- Identified source and destination IPs
-- Determined alert type and severity
+### 1. Host Discovery
+- Verified system availability
+- Confirmed target responsiveness
 
-### 2. Traffic Analysis
-- Analyzed packet capture (PCAP)
-- Observed unusual traffic patterns
-- Identified suspicious communication behavior
+### 2. Port Scanning
+- Conducted Nmap scan
+- Identified open ports and exposed services
 
-### 3. Threat Validation
-- Cross-referenced IP behavior
-- Checked for abnormal ports/services
-- Evaluated indicators of compromise (IOCs)
+### 3. Service Enumeration
+- Detected service versions
+- Analyzed potential weaknesses
 
 ---
 
 ## ⚙️ Tools Used
 
-- Wireshark  
+- Nmap  
 - Linux Terminal  
-- Network Analysis Techniques  
 
 ---
 
 ## 📊 Findings
 
-- Suspicious traffic detected between internal and external host  
-- Unusual port communication identified  
-- Behavior consistent with potential reconnaissance or probing  
+- Multiple open ports identified  
+- Active services exposed to network  
+- Potential attack surface discovered  
 
 ---
 
-## 🛡️ Response Actions
+## 🛡️ Defensive Insight
 
-- Flagged activity as suspicious  
-- Recommended monitoring and blocking source IP  
-- Suggested further log correlation for confirmation  
+From a defensive standpoint:
+- Open ports increase attack exposure  
+- Unnecessary services should be closed  
+- Firewalls and segmentation should be applied  
 
 ---
 
-## 📁 Screenshots
+## 📁 Screenshot Evidence
 
-### 🔍 Alert View
-![Alert](screenshots/alert.png)
-
-### 🌐 Traffic Analysis
-![Traffic](screenshots/traffic.png)
+![Scan Results](screenshots/scan.png)
 
 ---
 
 ## 🎯 Outcome
 
-This investigation demonstrates the ability to:
-- Analyze alerts effectively  
-- Interpret network traffic  
-- Identify potential threats  
-- Apply structured SOC workflow  
+This lab demonstrates the ability to:
+- Perform structured reconnaissance  
+- Identify vulnerabilities in network exposure  
+- Translate offensive actions into defensive strategy  
 
 ---
 
-## ⚔️ Analyst Mindset
+## ⚔️ Security Perspective
 
-Security is not guessing — it is **observing patterns, validating signals, and executing controlled responses.**## Evidence
-
-### Alert Example
-![Alert](screenshots/alert.png)
-
-### Traffic Analysis
-![Traffic](screenshots/traffic.png)nano README.md
+Understanding how attackers scan systems allows defenders to:
+- Reduce exposure  
+- Harden infrastructure  
+- Detect early-stage reconnaissance activity
