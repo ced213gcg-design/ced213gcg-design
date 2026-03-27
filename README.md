@@ -1,13 +1,23 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/lock-key-cyber-logo.png" width="250" alt="Lock and Key Cyber Logo">
+  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/lock-key-cyber-banner.png" width="100%"/>
 </p>
 
 <h1 align="center">Cedrick Green</h1>
-<h3 align="center">Lock & Key Cyber</h3>
-<h4 align="center">Cybersecurity Analyst | SOC Operations | Threat Detection | Network Defense</h4>
 
 <p align="center">
-U.S. Army Veteran • Defensive Security • Real-World Lab Execution
+  <b>Lock & Key Cyber</b>
+</p>
+
+<p align="center">
+  Cybersecurity • Infrastructure • Systems Operations
+</p>
+
+<p align="center">
+  Precision. Structure. Execution.
+</p>
+
+<p align="center">
+  U.S. Army Veteran • Defensive Security • Real-World Lab Execution
 </p>
 
 <p align="center">
@@ -21,141 +31,71 @@ U.S. Army Veteran • Defensive Security • Real-World Lab Execution
 
 ---
 
+## ⚔️ Operational Identity
+
+Lock & Key Cyber is built on three pillars:
+
+- **Security First** — Every system hardened before exposed  
+- **Precision Execution** — No guesswork, only verified actions  
+- **Controlled Access** — Least privilege, maximum awareness  
+
+---
+
+## 🧠 Core Capabilities
+
+- Threat Detection & Analysis  
+- Security Monitoring (SOC Operations)  
+- Network Traffic Investigation  
+- Vulnerability Identification  
+- Endpoint Awareness & Defense  
+- Linux / Windows System Operations  
+
+---
+
+## 🧪 Active Labs
+
+### 🔍 SOC Analyst Lab
+- Alert investigation workflow  
+- Traffic analysis (PCAP review)  
+- Threat identification and escalation  
+
+### 🌐 Network Defense Lab
+- Nmap scanning and enumeration  
+- Service detection and mapping  
+- Attack surface visibility  
+
+---
+
+## ⚙️ Tools & Technologies
+
+- Nmap  
+- Wireshark  
+- Linux (Kali / Ubuntu)  
+- Windows Security Tools  
+- Git & GitHub  
+- SIEM Concepts  
+
+---
+
+## 📊 Mission
+
+To transition into a **high-level cybersecurity role** by demonstrating:
+
+- Real-world lab execution  
+- Structured analytical thinking  
+- Defensive security expertise  
+- Operational discipline  
+
+---
+
 ## 🔐 Symbolic System
 
-**Lock** — Security, protection, controlled access  
-**Key** — Knowledge, authority, execution  
-**Shield** — Defense, trust, operational protection  
-**Triangle / Grid** — Structure, intelligence, architecture  
-**Lotus** — Growth, elevation, disciplined evolution  
-**Emerald** — Identity, precision, control, signature energy  
+- **Lock** — Security, protection, controlled access  
+- **Key** — Knowledge, authority, execution  
+- **Shield** — Defense, trust, operational integrity  
 
 ---
 
-## 🏛 Core Pillars
-
-### Discipline
-Structured execution, consistency, and accountability.
-
-### Analysis
-Understanding threats, not just identifying them.
-
-### Execution
-Hands-on lab environments and real tool usage.
-
-### Structure
-System-based thinking, SOP development, repeatable processes.
-
-### Growth
-Continuous improvement and skill development.
-
-### Protection
-Defensive security mindset focused on reducing risk and exposure.
-
----
-
-## ⚔️ Mission
-
-Empower individuals with **technical skills and financial knowledge** to create real independence.
-
-With the standard of excellence fueling hearts and minds to stay **Lock & Key’d in for success.**
-
----
-
-## 🧠 Command Focus
-
-- Cybersecurity
-- Infrastructure
-- Systems Operations
-- Threat Detection
-- Network Analysis
-- Linux Hardening
-- Security Monitoring
-- Incident Response Fundamentals
-
----
-
-## 🔬 Active Cyber Lab Environment
-
-Hands-on cybersecurity lab simulating real-world attack and defense scenarios:
-
-- Network scanning and enumeration
-- Open port identification and exposure analysis
-- SOC-style monitoring workflows
-- Incident response walkthroughs
-- Log analysis simulations
-- Python-based automation tools
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ SOC Analyst Lab
-Simulated SOC environment with detection, triage, and response workflows.
-
-### 🌐 Nmap Scan Lab
-Live host scanning, exposure analysis, and service enumeration.
-
-### 🐍 Python Security Tools
-Custom automation scripts for:
-- Network scanning
-- Log parsing
-- Task automation
-
-### 📊 Cyber Operations Portfolio
-Centralized documentation of labs, findings, and workflows.
-
----
-
-## 🇺🇸 Military Background
-
-U.S. Army Veteran
-
-- MOS: 13P – MLRS Fire Direction Specialist
-- Rank: E-4 (Corporal)
-
-Operations:
-- Operation Iraqi Freedom I
-- Operation Iraqi Freedom II
-- Operation Iraqi Liberty
-
-Core Strengths:
-- Precision execution under pressure
-- Real-time decision making
-- Structured operations
-- Leadership in controlled environments
-
----
-
-## 📜 Certifications & Training
-
-- Cybersecurity Foundations
-- The Cybersecurity Threat Landscape
-- Practical Cybersecurity for IT Professionals
-- IT Security Foundations: Network Security
-- IT Security Foundations: Operating System Security
-
-Additional:
-- 25+ Indeed Certifications
-- SENS Certifications
-
----
-
-## 🤝 Community & Leadership
-
-**Lock & Key Initiative**
-
-Focused on:
-- Cybersecurity education
-- Financial literacy
-- Workforce development
-- Community empowerment
-
----
-
-## 📫 Contact
-
-Email: ced213g.cg@gmail.com  
-Phone: 737-320-7866  
-LinkedIn: https://www.linkedin.com/in/CedrickGreenATX213CYBER  
-GitHub: https://github.com/ced213gcg-design
+<p align="center">
+  <b>Built with discipline. Driven by precision. Executed with purpose.</b>
+</p>
