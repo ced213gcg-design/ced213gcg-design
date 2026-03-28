@@ -65,3 +65,8 @@ This scan demonstrates the ability to:
 - Perform network reconnaissance
 - Identify exposed services
 - Assess basic risk
+---
+
+## 📄 Additional Report
+
+- [Network Investigation Report](investigation-report.md)
