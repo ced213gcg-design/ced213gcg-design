@@ -97,5 +97,68 @@ To transition into a **high-level cybersecurity role** by demonstrating:
 ---
 
 <p align="center">
+  # 🌐 Freedom Architect System
+
+## 🧠 Identity
+Cybersecurity Analyst | SOC Operations | Network Defense | Linux Systems  
+Infrastructure Operations | U.S. Army Veteran  
+
+---
+
+## ⚔️ GitHub Command Center
+
+CedrickGreenProfile/
+├── soc-analyst-lab/
+│   ├── Threat Investigation
+│   ├── Traffic Analysis
+│   └── Security Findings
+│
+├── network-defense-lab/
+│   ├── Port Scanning
+│   ├── Exposure Analysis
+│   ├── Investigation Report
+│   └── Defensive Strategy
+│
+├── assets/
+│   ├── Motion Banner
+│   └── Symbolism
+
+---
+
+## 🔥 Open Source
+
+- social-engineer-toolkit (PR Submitted)
+- Security Awareness Enhancement
+
+---
+
+## 📄 Professional Stack
+
+- Resume (Infrastructure + Cybersecurity)
+- Cover Letter (Remote Positioning)
+- Certifications (Cybersecurity, Linux, Network Security)
+
+---
+
+## 🌐 LinkedIn System
+
+- Headline: Cybersecurity Analyst | SOC | Network Defense
+- Featured: GitHub Portfolio
+- Content: Labs + Contributions
+
+---
+
+## ⚔️ Execution Engine
+
+- 5 Targeted Applications / Day
+- Recruiter Outreach
+- 24hr Follow-Up System
+- LinkedIn Engagement
+
+---
+
+## 🎯 Mission
+
+Building structured, disciplined systems that bridge cybersecurity, infrastructure, and real-world operational execution.
   <b>Built with discipline. Driven by precision. Executed with purpose.</b>
 </p>
