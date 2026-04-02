@@ -1,5 +1,4 @@
-# Nmap Scan Case File
-
+## network-defense-lab
 ## Case ID
 NMAP-2026-001
 
@@ -65,3 +64,8 @@ This scan demonstrates the ability to:
 - Perform network reconnaissance
 - Identify exposed services
 - Assess basic risk
+---
+
+## 📄 Additional Report
+
+- [Network Investigation Report](investigation-report.md)
