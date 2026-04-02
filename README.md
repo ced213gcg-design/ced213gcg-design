@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/symbols/lock-key.png" width="110" alt="Lock and Key Symbol"/>
+  <img src="assets/symbols/symbol-strip.png" width="92%" alt="Lock and Key Cyber Symbol Strip"/>
 </p>
 
 <h1 align="center">Cedrick Green</h1>
@@ -43,10 +43,6 @@ Lock & Key Cyber operates on a controlled system architecture built on three pil
 - **Precision Execution** — No guesswork, only verified actions  
 - **Controlled Access** — Least privilege, maximum awareness  
 
-<p align="center">
-  <img src="assets/symbols/eye-consciousness.png" width="95" alt="Awareness Symbol"/>
-</p>
-
 ---
 
 ## 🧠 Core Capabilities
@@ -57,10 +53,6 @@ Lock & Key Cyber operates on a controlled system architecture built on three pil
 - Vulnerability Identification  
 - Endpoint Awareness & Defense  
 - Linux / Windows System Operations  
-
-<p align="center">
-  <img src="assets/symbols/pillar-foundation.png" width="90" alt="Pillar Foundation Symbol"/>
-</p>
 
 ---
 
@@ -81,10 +73,6 @@ Lock & Key Cyber operates on a controlled system architecture built on three pil
 - Decision logic and incident states  
 - Operational tracking mindset  
 
-<p align="center">
-  <img src="assets/symbols/lotus-growth.png" width="95" alt="Lotus Growth Symbol"/>
-</p>
-
 ---
 
 ## ⚙️ Tools & Technologies
@@ -95,10 +83,6 @@ Lock & Key Cyber operates on a controlled system architecture built on three pil
 - Windows Security Tools  
 - Git & GitHub  
 - SIEM Concepts  
-
-<p align="center">
-  <img src="assets/symbols/sacred-geometry.png" width="95" alt="Sacred Geometry Symbol"/>
-</p>
 
 ---
 
@@ -123,30 +107,9 @@ The Lock & Key Cyber framework is built on layered symbolic architecture that re
 - **Pillars** — Structured systems that support repeatable and disciplined outcomes  
 - **Lotus** — Growth through pressure, clarity through complexity  
 - **Sacred Geometry** — Intelligence, pattern recognition, and systemic order  
+- **Cosmic Shield** — Unified protection, awareness, and total system integrity  
 
 These are not abstract concepts. They are reflected in every lab, system, and workflow built within this environment.
 
 <p align="center">
-  <img src="assets/symbols/cosmic-system.png" width="110" alt="Cosmic System Symbol"/>
-</p>
-
----
-
-## 🎤 Interview System
-
-- [Interview Asset](./interview-asset/)
-- Slide Deck available in repository
-
-This section reflects my structured approach to cybersecurity operations, including SOC analysis, network defense, and system-level decision making.
-
----
-
-## 🌐 Freedom Architect System
-
-- Tracking, operational workflow, and execution architecture are maintained through the Freedom Architect command environment.
-
----
-
-<p align="center">
-  <b>Structured commands. Controlled systems. Verified outcomes.</b>
-</p>
+  <img src="assets/symbols/seven-symbol-pack.png" width="88%" alt="Lock and Key Cyber Seven Symbol
