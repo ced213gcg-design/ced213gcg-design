@@ -1,155 +1,71 @@
-<!-- ========================= -->
-<!-- LOCK & KEY CYBER HEADER -->
-<!-- ========================= -->
-
-<h1 align="center">🔒 LOCK & KEY CYBER</h1>
-<h3 align="center">Security is a System. Access is a Privilege.</h3>
+<h1 align="center">Cedrick Green</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Operations-black?style=for-the-badge&logo=linux&logoColor=green"/>
-  <img src="https://img.shields.io/badge/SOC-Analyst-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Threat-Detection-black?style=for-the-badge"/>
+  <b>Cybersecurity • SOC Operations • Network Defense • Systems Operations</b>
+</p>
+
+<p align="center">
+  U.S. Army Veteran • Defensive Security • Real-World Lab Execution
+</p>
+
+<p align="center">
+  <a href="https://github.com/ced213gcg-design?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" alt="GitHub Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/CedrickGreenATX213CYBER">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-<!-- ========================= -->
-<!-- SYMBOL STRIP -->
-<!-- ========================= -->
+## Professional Focus
 
-<p align="center">
-🔐 ⚡ 👁️ 🏛️ 🌸 🔷 🌌
-</p>
+I build structured cybersecurity work centered on:
 
----
-
-<!-- ========================= -->
-<!-- GRID LAYOUT -->
-<!-- ========================= -->
-
-<table>
-<tr>
-
-<!-- LEFT COLUMN -->
-<td width="30%" valign="top">
-
-<h3>👤 Cedrick Green</h3>
-
-<b>Lock & Key Cyber</b><br>
-Cybersecurity • Infrastructure • Systems Operations<br><br>
-
-<b>Principles</b><br>
-• Precision<br>
-• Structure<br>
-• Execution<br><br>
-
-<b>Background</b><br>
-• U.S. Army Veteran<br>
-• Defensive Security<br>
-• Real-World Lab Execution<br><br>
-
-<b>Location</b><br>
-Austin, TX • Open to Remote
-
-</td>
-
-<!-- CENTER COLUMN -->
-<td width="40%" valign="top">
-
-<h3>⚙️ Embedded Execution System</h3>
-
-<pre>
-Initialize → Recon → Detect → Analyze → Respond → Harden
-
-SOC Workflow:
-- Alert Intake
-- Log Correlation
-- Threat Classification
-- Incident Escalation
-- Containment Execution
-
-Network Defense:
-- Traffic Inspection
-- Packet Analysis
-- Intrusion Detection
-- Vulnerability Mapping
-
-System Discipline:
-- Least Privilege
-- Controlled Access
-- Continuous Monitoring
-</pre>
-
-</td>
-
-<!-- RIGHT COLUMN -->
-<td width="30%" valign="top">
-
-<h3>🧠 Core Capabilities</h3>
-
-• Threat Detection & Analysis<br>
-• SOC Monitoring<br>
-• Network Traffic Analysis<br>
-• Vulnerability Identification<br>
-• Endpoint Awareness<br><br>
-
-<h3>🛠 Tools</h3>
-
-• Nmap<br>
-• Wireshark<br>
-• Linux<br>
-• Windows Security Tools<br>
-• Git & GitHub<br><br>
-
-<h3>🚀 Active Systems</h3>
-
-• SOC Analyst Lab<br>
-• Network Defense Lab<br>
-• Detection Engineering Practice<br>
-
-</td>
-
-</tr>
-</table>
+- alert triage and investigation
+- packet and traffic analysis
+- network scanning and exposure review
+- defensive reasoning and documentation
+- Linux / Windows operational support
 
 ---
 
-<!-- ========================= -->
-<!-- MISSION -->
-<!-- ========================= -->
+## Featured Lab Areas
 
-<h2>🎯 Mission</h2>
-
-To operate at a high level in cybersecurity through structured execution, disciplined analysis, and real-world application.
-
----
-
-<!-- ========================= -->
-<!-- INTERVIEW SYSTEM -->
-<!-- ========================= -->
-
-<h2>📡 Interview Readiness System</h2>
-
-<pre>
-- Cybersecurity Analysis Workflow
-- Real-World Threat Scenarios
-- Structured Problem Solving
-- Incident Response Simulation
-</pre>
-
----
-
-<!-- ========================= -->
-<!-- FOOTER -->
-<!-- ========================= -->
-
-<p align="center">
-🔐 LOCK & KEY CYBER • BUILT ON CONTROLLED EXECUTION
-</p>
-
+### SOC Analyst Lab
+Alert review, investigation workflow, and structured findings documentation.
 
 ### Packet Analysis Lab
-Deep inspection of network traffic demonstrating packet-level investigation and threat reasoning.
+Traffic inspection and protocol-based reasoning to determine suspicious or noteworthy activity.
 
 ### Nmap Scan Lab
-Advanced network scanning and service exposure analysis demonstrating real-world defensive security thinking.
+Service identification, port exposure review, and attack-surface analysis from a defensive perspective.
+
+### Network Defense Lab
+Defensive visibility, exposure reduction, and security posture thinking.
+
+### FreedomArchitect System
+A command environment for execution, audit, job intelligence, and structured project control.
+
+---
+
+## Operating Standard
+
+- Structured execution
+- Evidence-based thinking
+- Clear documentation
+- Defensive discipline
+- Continuous improvement
+
+---
+
+## Current Mission
+
+Transition into a high-level cybersecurity role by demonstrating real analyst workflows, practical lab execution, and disciplined operational thinking.
+
+---
+
+<p align="center">
+  <b>Structured systems. Defensive analysis. Verified execution.</b>
+</p>
