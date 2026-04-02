@@ -147,3 +147,6 @@ To operate at a high level in cybersecurity through structured execution, discip
 🔐 LOCK & KEY CYBER • BUILT ON CONTROLLED EXECUTION
 </p>
 
+
+### Packet Analysis Lab
+Deep inspection of network traffic demonstrating packet-level investigation and threat reasoning.
