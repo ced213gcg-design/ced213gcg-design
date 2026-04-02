@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/lock-key-cyber-banner.png" width="100%" alt="Lock and Key Cyber Banner"/>
+  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/lock-key-cyber-banner.png" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="assets/symbols/symbol-strip.png" width="92%" alt="Lock and Key Cyber Symbol Strip"/>
+  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/symbols/symbol-strip.png" width="92%"/>
 </p>
 
 <h1 align="center">Cedrick Green</h1>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Precision. Structure. Execution.
+  <b>Precision. Structure. Execution.</b>
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@
 
 <p align="center">
   <a href="https://github.com/ced213gcg-design">
-    <img src="https://img.shields.io/badge/Portfolio-Active-black?style=for-the-badge&logo=github" alt="Portfolio Active"/>
+    <img src="https://img.shields.io/badge/Portfolio-Active-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/CedrickGreenATX213CYBER">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
@@ -37,26 +37,26 @@
 
 ## ⚔️ Operational Identity
 
-Lock & Key Cyber operates on a controlled system architecture built on three pillars:
+Lock & Key Cyber is a structured cybersecurity system built on controlled execution and defensive precision.
 
-- **Security First** — Every system hardened before exposed  
-- **Precision Execution** — No guesswork, only verified actions  
-- **Controlled Access** — Least privilege, maximum awareness  
+- **Security First** — Harden before exposure  
+- **Precision Execution** — Verified action only  
+- **Controlled Access** — Least privilege, full awareness  
 
 ---
 
 ## 🧠 Core Capabilities
 
 - Threat Detection & Analysis  
-- Security Monitoring (SOC Operations)  
-- Network Traffic Investigation  
+- SOC Monitoring & Alert Investigation  
+- Network Traffic Analysis (PCAP)  
 - Vulnerability Identification  
 - Endpoint Awareness & Defense  
 - Linux / Windows System Operations  
 
 ---
 
-## 🧪 Active Labs
+## 🧪 Active Systems
 
 ### 🔍 SOC Analyst Lab
 - Alert investigation workflow  
@@ -88,7 +88,7 @@ Lock & Key Cyber operates on a controlled system architecture built on three pil
 
 ## 📊 Mission
 
-To transition into a high-level cybersecurity role by demonstrating:
+To transition into a high-level cybersecurity role through:
 
 - Real-world lab execution  
 - Structured analytical thinking  
@@ -99,17 +99,29 @@ To transition into a high-level cybersecurity role by demonstrating:
 
 ## 🔐 Symbolic System
 
-The Lock & Key Cyber framework is built on layered symbolic architecture that reflects operational reality:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/symbols/seven-symbol-pack.png" width="88%"/>
+</p>
 
 - **Lock** — Security before exposure  
-- **Key** — Access through knowledge, earned through verification and execution  
-- **Shield** — Defensive posture, integrity, and trust under pressure  
-- **Pillars** — Structured systems that support repeatable and disciplined outcomes  
-- **Lotus** — Growth through pressure, clarity through complexity  
-- **Sacred Geometry** — Intelligence, pattern recognition, and systemic order  
-- **Cosmic Shield** — Unified protection, awareness, and total system integrity  
+- **Key** — Access through verified knowledge  
+- **Shield** — Defensive integrity under pressure  
+- **Pillars** — Structured repeatable systems  
+- **Lotus** — Growth through complexity  
+- **Sacred Geometry** — Pattern recognition & system intelligence  
+- **Cosmic Shield** — Unified awareness and total protection  
 
-These are not abstract concepts. They are reflected in every lab, system, and workflow built within this environment.
+---
+
+## 🎤 Interview System
+
+- [Interview Asset](./interview-asset/)
+- Slide deck available in repository  
+
+This reflects structured cybersecurity thinking across SOC operations, network defense, and system-level decision making.
+
+---
 
 <p align="center">
-  <img src="assets/symbols/seven-symbol-pack.png" width="88%" alt="Lock and Key Cyber Seven Symbol
+  <b>Structured systems. Controlled execution. Verified outcomes.</b>
+</p>
