@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/lock-key-cyber-banner.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ced213gcg-design/ced213gcg-design/main/assets/lock-key-cyber-banner.png" width="100%" alt="Lock and Key Cyber Banner"/>
+</p>
+
+<p align="center">
+  <img src="assets/symbols/lock-key.png" width="110" alt="Lock and Key Symbol"/>
 </p>
 
 <h1 align="center">Cedrick Green</h1>
@@ -21,23 +25,27 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ced213gcg-design">
-<img src="https://img.shields.io/badge/Portfolio-Active-black?style=for-the-badge&logo=github">
-</a>
-<a href="https://www.linkedin.com/in/CedrickGreenATX213CYBER">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
+  <a href="https://github.com/ced213gcg-design">
+    <img src="https://img.shields.io/badge/Portfolio-Active-black?style=for-the-badge&logo=github" alt="Portfolio Active"/>
+  </a>
+  <a href="https://www.linkedin.com/in/CedrickGreenATX213CYBER">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect"/>
+  </a>
 </p>
 
 ---
 
 ## ⚔️ Operational Identity
 
-Lock & Key Cyber is built on three pillars:
+Lock & Key Cyber operates on a controlled system architecture built on three pillars:
 
 - **Security First** — Every system hardened before exposed  
 - **Precision Execution** — No guesswork, only verified actions  
 - **Controlled Access** — Least privilege, maximum awareness  
+
+<p align="center">
+  <img src="assets/symbols/eye-consciousness.png" width="95" alt="Awareness Symbol"/>
+</p>
 
 ---
 
@@ -49,6 +57,10 @@ Lock & Key Cyber is built on three pillars:
 - Vulnerability Identification  
 - Endpoint Awareness & Defense  
 - Linux / Windows System Operations  
+
+<p align="center">
+  <img src="assets/symbols/pillar-foundation.png" width="90" alt="Pillar Foundation Symbol"/>
+</p>
 
 ---
 
@@ -64,6 +76,15 @@ Lock & Key Cyber is built on three pillars:
 - Service detection and mapping  
 - Attack surface visibility  
 
+### ⚖️ Due Diligence Framework
+- Structured threat identification  
+- Decision logic and incident states  
+- Operational tracking mindset  
+
+<p align="center">
+  <img src="assets/symbols/lotus-growth.png" width="95" alt="Lotus Growth Symbol"/>
+</p>
+
 ---
 
 ## ⚙️ Tools & Technologies
@@ -75,11 +96,15 @@ Lock & Key Cyber is built on three pillars:
 - Git & GitHub  
 - SIEM Concepts  
 
+<p align="center">
+  <img src="assets/symbols/sacred-geometry.png" width="95" alt="Sacred Geometry Symbol"/>
+</p>
+
 ---
 
 ## 📊 Mission
 
-To transition into a **high-level cybersecurity role** by demonstrating:
+To transition into a high-level cybersecurity role by demonstrating:
 
 - Real-world lab execution  
 - Structured analytical thinking  
@@ -90,75 +115,38 @@ To transition into a **high-level cybersecurity role** by demonstrating:
 
 ## 🔐 Symbolic System
 
-- **Lock** — Security, protection, controlled access  
-- **Key** — Knowledge, authority, execution  
-- **Shield** — Defense, trust, operational integrity  
+The Lock & Key Cyber framework is built on layered symbolic architecture that reflects operational reality:
+
+- **Lock** — Security before exposure  
+- **Key** — Access through knowledge, earned through verification and execution  
+- **Shield** — Defensive posture, integrity, and trust under pressure  
+- **Pillars** — Structured systems that support repeatable and disciplined outcomes  
+- **Lotus** — Growth through pressure, clarity through complexity  
+- **Sacred Geometry** — Intelligence, pattern recognition, and systemic order  
+
+These are not abstract concepts. They are reflected in every lab, system, and workflow built within this environment.
+
+<p align="center">
+  <img src="assets/symbols/cosmic-system.png" width="110" alt="Cosmic System Symbol"/>
+</p>
+
+---
+
+## 🎤 Interview System
+
+- [Interview Asset](./interview-asset/)
+- Slide Deck available in repository
+
+This section reflects my structured approach to cybersecurity operations, including SOC analysis, network defense, and system-level decision making.
+
+---
+
+## 🌐 Freedom Architect System
+
+- Tracking, operational workflow, and execution architecture are maintained through the Freedom Architect command environment.
 
 ---
 
 <p align="center">
-  # 🌐 Freedom Architect System
-
-## 🧠 Identity
-Cybersecurity Analyst | SOC Operations | Network Defense | Linux Systems  
-Infrastructure Operations | U.S. Army Veteran  
-
----
-
-## ⚔️ GitHub Command Center
-
-CedrickGreenProfile/
-├── soc-analyst-lab/
-│   ├── Threat Investigation
-│   ├── Traffic Analysis
-│   └── Security Findings
-│
-├── network-defense-lab/
-│   ├── Port Scanning
-│   ├── Exposure Analysis
-│   ├── Investigation Report
-│   └── Defensive Strategy
-│
-├── assets/
-│   ├── Motion Banner
-│   └── Symbolism
-
----
-
-## 🔥 Open Source
-
-- social-engineer-toolkit (PR Submitted)
-- Security Awareness Enhancement
-
----
-
-## 📄 Professional Stack
-
-- Resume (Infrastructure + Cybersecurity)
-- Cover Letter (Remote Positioning)
-- Certifications (Cybersecurity, Linux, Network Security)
-
----
-
-## 🌐 LinkedIn System
-
-- Headline: Cybersecurity Analyst | SOC | Network Defense
-- Featured: GitHub Portfolio
-- Content: Labs + Contributions
-
----
-
-## ⚔️ Execution Engine
-
-- 5 Targeted Applications / Day
-- Recruiter Outreach
-- 24hr Follow-Up System
-- LinkedIn Engagement
-
----
-
-## 🎯 Mission
-
-Building structured, disciplined systems that bridge cybersecurity, infrastructure, and real-world operational execution.
-  <b>Built with discipline. Driven by precision. Executed with purpose.</b>
+  <b>Structured commands. Controlled systems. Verified outcomes.</b>
 </p>
