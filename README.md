@@ -150,3 +150,6 @@ To operate at a high level in cybersecurity through structured execution, discip
 
 ### Packet Analysis Lab
 Deep inspection of network traffic demonstrating packet-level investigation and threat reasoning.
+
+### Nmap Scan Lab
+Advanced network scanning and service exposure analysis demonstrating real-world defensive security thinking.

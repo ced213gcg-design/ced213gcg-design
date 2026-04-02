@@ -1,0 +1,7 @@
+Nmap scan report for target_ip
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 7.6
+80/tcp   open  http    Apache httpd 2.4.29
+443/tcp  open  https   Apache SSL
+
+Service detection performed. Potential exposure identified.

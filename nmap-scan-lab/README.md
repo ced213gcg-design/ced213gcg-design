@@ -1,71 +1,30 @@
-## network-defense-lab
-## Case ID
-NMAP-2026-001
+# Nmap Scan Lab (Upgraded)
 
 ## Objective
-Perform a network scan to identify open ports and potential exposure.
+Perform network scanning and analyze exposed services to identify potential security risks.
 
----
-
-## Target
-scanme.nmap.org (authorized public test host)
-
----
+## Scenario
+A system was scanned to identify open ports and running services. The goal is to understand exposure and assess risk from a defensive perspective.
 
 ## Command Used
-nmap -sS -Pn scanme.nmap.org
+```bash
+nmap -sS -sV -Pn target_ip
+```
 
----
+## Workflow
+1. Perform scan
+2. Identify open ports
+3. Analyze services and versions
+4. Determine risk level
+5. Recommend defensive actions
 
-## Scan Summary
-- Host: scanme.nmap.org
-- Status: Up
-- Scan Type: SYN Scan
-- Purpose: Identify open ports and services
+## Files
+- scans/nmap-results.txt
+- analysis/service-analysis.md
+- analysis/findings.md
 
----
-
-## Results
-- 22/tcp open ssh
-- 53/tcp open domain
-- 80/tcp open http
-- 9929/tcp open nping-echo
-- 31337/tcp open Elite
-
----
-
-## Analysis
-- Port 22 (SSH): Remote access service, should be restricted
-- Port 80 (HTTP): Web service, should be monitored
-
----
-
-## Risk Level
-Low to Medium (based on exposure, not confirmed vulnerability)
-
----
-
-## Recommendations
-- Limit SSH access (IP allowlist)
-- Monitor HTTP traffic
-- Apply regular patching
-
----
-
-## Evidence
-
-### Scan Output
-![Scan](screenshots/scan.png)
-
----
-
-## Conclusion
-This scan demonstrates the ability to:
-- Perform network reconnaissance
-- Identify exposed services
-- Assess basic risk
----
-
-## 📄 Additional Report
-
-- [Network Investigation Report](investigation-report.md)
+## Skills Demonstrated
+- Network scanning
+- Service identification
+- Attack surface analysis
+- Defensive thinking
