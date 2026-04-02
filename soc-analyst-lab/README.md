@@ -1,73 +1,40 @@
-# 🌐 Network Defense Lab
+# SOC Analyst Lab
 
-## 📌 Objective
-This lab demonstrates network reconnaissance, service enumeration, and defensive awareness using active scanning techniques.
-
----
-
-## 🚨 Scenario
-A target system was analyzed to identify open ports, running services, and potential vulnerabilities that could be exploited by an attacker.
+## Objective
+This lab demonstrates a structured SOC analyst workflow for reviewing an alert, examining supporting evidence, identifying suspicious activity, and documenting findings in a clear investigation format.
 
 ---
 
-## 🧠 Analysis Process
-
-### 1. Host Discovery
-- Verified system availability
-- Confirmed target responsiveness
-
-### 2. Port Scanning
-- Conducted Nmap scan
-- Identified open ports and exposed services
-
-### 3. Service Enumeration
-- Detected service versions
-- Analyzed potential weaknesses
+## Scenario
+A security alert was triggered based on suspicious network activity. The purpose of this lab is to simulate how a SOC analyst would review the event, examine evidence, assess impact, and recommend a response.
 
 ---
 
-## ⚙️ Tools Used
-
-- Nmap  
-- Linux Terminal  
-
----
-
-## 📊 Findings
-
-- Multiple open ports identified  
-- Active services exposed to network  
-- Potential attack surface discovered  
+## Workflow
+1. Receive and review alert
+2. Identify affected asset or traffic
+3. Examine available evidence
+4. Determine whether activity is benign or suspicious
+5. Document findings
+6. Recommend containment or follow-up actions
 
 ---
 
-## 🛡️ Defensive Insight
-
-From a defensive standpoint:
-- Open ports increase attack exposure  
-- Unnecessary services should be closed  
-- Firewalls and segmentation should be applied  
+## Files
+- [Alert Summary](./alert-summary.md)
+- [Investigation Report](./investigation-report.md)
+- [Findings](./findings.md)
 
 ---
 
-## 📁 Screenshot Evidence
-
-![Scan Results](screenshots/scan.png)
-
----
-
-## 🎯 Outcome
-
-This lab demonstrates the ability to:
-- Perform structured reconnaissance  
-- Identify vulnerabilities in network exposure  
-- Translate offensive actions into defensive strategy  
+## Skills Demonstrated
+- Alert triage
+- Incident documentation
+- Analytical reasoning
+- Threat assessment
+- Structured reporting
 
 ---
 
-## ⚔️ Security Perspective
-
-Understanding how attackers scan systems allows defenders to:
-- Reduce exposure  
-- Harden infrastructure  
-- Detect early-stage reconnaissance activity
+## Evidence Screenshots
+Screenshots used in this lab are stored in the `screenshots/` directory to support the investigation narrative.
