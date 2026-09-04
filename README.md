@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  U.S. Army Veteran • Defensive Security • Real-World Lab Execution
+  U.S. Army Veteran • Defensive Security • Authorized Lab Execution
 </p>
 
 <p align="center">
   <a href="https://github.com/ced213gcg-design?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" alt="GitHub Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/CedrickGreenATX213CYBER">
+  <a href="https://www.linkedin.com/in/CedrickGreen">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
